@@ -9,7 +9,13 @@ export default function App() {
     <div className="App">
       <Navbar/>
       <Hero/>
-      <Card/>
+      <Card 
+      img = "./images/katie.jpg" 
+      rating = "5.0"
+      viewCount = {6}
+      country = "USA"
+      title = "Life Lessons with Zaferes"
+      price = {136}/>
 
     </div>
   );
