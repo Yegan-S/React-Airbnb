@@ -6,9 +6,10 @@ export default  [
         coverImg: "katie.jpg",
         stats:{
             rating: 5.0,
-            reviewCount: 6,
+            reviewCount: 6
         },
         location:"Online",
+        openSpots:0,
 
     },
 
@@ -19,10 +20,10 @@ export default  [
         coverImg:"bride.jpg",
         stats:{
             rating: 5.0,
-            reviewCount: 30,
+            reviewCount: 30
         },
         location:"Online",
-
+         openSpots:27,
     },
 
      {
@@ -32,9 +33,10 @@ export default  [
         coverImg:"bike.jpg",
         stats:{
             rating:4.8,
-            reviewCount:2,
+            reviewCount:2
         },
         location:"Norway",
+         openSpots:3,
 
     }
 ]
