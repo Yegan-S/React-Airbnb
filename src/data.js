@@ -14,7 +14,7 @@ export default  [
 
      {
         id:2,
-        title:"Learn Wedding Photography",
+        title:"Learn Amazing Wedding Photography",
         price: 125,
         coverImg:"bride.jpg",
         stats:{
